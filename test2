@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=path/to/sports-analytics.jar -DgroupId=com.sports -DartifactId=sports-analytics -Dversion=1.0.0 -Dpackaging=jar
